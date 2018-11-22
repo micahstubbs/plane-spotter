@@ -1,3 +1,5 @@
+# theta V tabs
+
 https://plugin-dev-quickstart.readthedocs.io/en/latest/examples/main.html | Main Code Examples — Getting Started with THETA Plugin Dev documentation
 https://github.com/ricohapi/theta-automatic-face-blur-plugin | ricohapi/theta-automatic-face-blur-plugin: Automatic face blur plug-in for RICOH THETA
 https://github.com/ricohapi | RICOH Developer Connection
@@ -25,3 +27,11 @@ https://arxiv.org/pdf/1806.09755.pdf | 1806.09755.pdf
 https://www.google.com/search?safe=active&biw=1247&bih=1050&tbm=isch&sa=1&ei=4GLnW4TkKo6v0PEP1_CGkA8&q=tensorflow+log+data&oq=tensorflow+log+data&gs_l=img.3...32069.35499..35634...0.0..0.264.1878.14j2j3......1....1..gws-wiz-img.......0j35i39j0i67j0i5i30j0i8i30j0i24._ChxCueTaR8#imgrc=Ijbb7xfldsGZ_M: | tensorflow log data - Google Search
 https://www.google.com/search?q=tf+yolo&safe=active&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi7mOau98reAhXJhlQKHTWvBa8Q_AUIEygB&biw=1247&bih=1050 | tf yolo - Google Search
 https://twitter.com/micahstubbs | (\*) @micahstubbs (@micahstubbs) | Twitter
+
+# plane-detection-ai tabs
+
+https://github.com/mktshhr/tensorflow-theta | mktshhr/tensorflow-theta: Modified TensorFlow example for THETA V (Android). This is forked repo from https://tensorflow.org
+https://www.google.com/search?q=tensorflow+airplane+detection+model&oq=tensorflow+airplane+detection+model&aqs=chrome..69i57.7798j0j7&sourceid=chrome&ie=UTF-8 | tensorflow airplane detection model - Google Search
+https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd/tree/master/tensorflow-planespotting | tensorflow-without-a-phd/tensorflow-planespotting at master · GoogleCloudPlatform/tensorflow-without-a-phd
+https://docs.google.com/presentation/d/19u0Tm0JHL5tpzyarLILvy4qLSuDBFNNx2hwSvZsFPI0/pub?slide=id.g292aa67486_0_593 | Tensorflow, deep learning and modern convolutional neural nets - without a PhD - Google Slides
+https://github.com/rhammell/planesnet-detector | rhammell/planesnet-detector: Detect airplanes in Planet imagery using machine learning
