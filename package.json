@@ -1,0 +1,10 @@
+{
+  "name": "plane-spotter",
+  "version": "1.0.0",
+  "description": "spot airplanes in the sky with the Theta V 360 degree camera + a TensorFlow image classification model",
+  "main": "index.js",
+  "repository": "git@github.com:micahstubbs/plane-spotter.git",
+  "author": "Micah Stubbs <micah.stubbs@gmail.com>",
+  "license": "Apache-2.0",
+  "private": false
+}
